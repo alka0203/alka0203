@@ -12,10 +12,13 @@ I started off with a background in Accounting and Business and switched over to 
 - Over time I plan to learn more languages that may help me strive towards back-end/software development.
 
 ### Contact me:
-<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"> alka.santhosh02@gmail.com
+<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png">: alka.santhosh02@gmail.com
+
 <br/><br/>
+
 [<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 
+<br/><br/>
 
 ### Language skills:
 <img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -26,7 +29,7 @@ I started off with a background in Accounting and Business and switched over to 
 
 <img align="left" alt="JavaScript" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<img align="left" alt="VS Code" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" alt="VS Code" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 <img align="left" alt="Git" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
