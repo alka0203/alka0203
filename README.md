@@ -11,15 +11,6 @@ I started off with a background in Accounting and Business and switched over to 
 - I am commencing new projects in Java and SQL.
 - Over time I plan to learn more languages that may help me strive towards back-end/software development.
 
-### Contact me:
-<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png">: alka.santhosh02@gmail.com
-
-<br/><br/>
-
-[<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
-
-<br/><br/>
-
 ### Language skills:
 <img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
@@ -34,6 +25,12 @@ I started off with a background in Accounting and Business and switched over to 
 <img align="left" alt="Git" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <img align="left" alt="Unix" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
+
+
+### Contact me:
+<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png">: alka.santhosh02@gmail.com
+<br/>
+[<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 <!--
 **alka0203/alka0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
