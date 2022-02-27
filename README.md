@@ -12,7 +12,7 @@ I started off with a background in Accounting and Business and switched over to 
 - Over time I plan to learn more languages that may help me strive towards back-end/software development.
 
 ### Contact me:
-<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"> alka.santhosh02@gmail.com
+<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"> alka.santhosh02@gmail.com\n
 [<img align="left" alt="Gmail" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 <!--
 **alka0203/alka0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
