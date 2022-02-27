@@ -1,4 +1,15 @@
-### Hi there 👋
+## Striving towards new beginnings 
+
+Hello Stranger!
+
+I am Alka Santhosh, a 20 year old aspiring developer, eager to learn and develop new skills over time with the number of projects that are displayed here.
+
+I started off with a background in Accounting and Business and switched over to programming to aid the satisfaction of my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
+
+### I am a student at [42 Abu Dhabi](https://42abudhabi.ae/), a part-time accountant and a book lover!
+- Most of my projects are done in C.
+- I am commencing new projects in Java and SQL.
+- Over time I plan to learn more languages that may help me strive towards back-end/software development.
 
 <!--
 **alka0203/alka0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
