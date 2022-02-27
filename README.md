@@ -13,14 +13,24 @@ I started off with a background in Accounting and Business and switched over to 
 
 ### Contact me:
 <img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"> alka.santhosh02@gmail.com
-<br/>
+<br/><br/>
 [<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 
 
 ### Language skills:
-<img align="left" alt="C" width="25px" img src="https://img.icons8.com/ios-filled/50/000000/c.png">
+<img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<img align="left" alt="Visual Studio Code" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img align="left" alt="Java" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+<img align="left" alt="HTML" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+<img align="left" alt="JavaScript" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+<img align="left" alt="VS Code" width="25px" img src="<img align="left" alt="Unix" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">">
+
+<img align="left" alt="Git" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+<img align="left" alt="Unix" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <!--
 **alka0203/alka0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
