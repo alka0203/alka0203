@@ -24,7 +24,7 @@ I started off with a background in Accounting and Business and switched over to 
 
 <img align="left" alt="HTML" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-<img align="left" alt="JavaScript" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img align="left" alt="JavaScript" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 <img align="left" alt="VS Code" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
