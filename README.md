@@ -34,7 +34,7 @@ I started off with a background in Accounting and Business and switched over to 
 
 [<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 
-![snake svg]([https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.gif](https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.svg))
+[snake svg]([https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.gif](https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.svg))
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <!--
