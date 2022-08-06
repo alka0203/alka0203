@@ -33,7 +33,8 @@ I started off with a background in Accounting and Business and switched over to 
 <br/>
 
 [<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
+
+![snake gif](https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.gif)
 <!--
 **alka0203/alka0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![snake gif](https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.gif)
