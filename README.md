@@ -2,7 +2,7 @@
 
 Hello Stranger!
 
-I am Alka Santhosh, a 20 year old aspiring developer, eager to learn and develop new skills over time with the number of projects that are displayed here.
+I'm Alka Santhosh, a 20 year old aspiring developer, eager to learn and develop new skills over time with the number of projects that are displayed here.
 
 I started off with a background in Accounting and Business and switched over to programming to aid the satisfaction of my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
 
