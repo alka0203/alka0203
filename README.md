@@ -1,12 +1,6 @@
 ##  About Me:
 
-- A Student pursuing a Diploma in Software Development at 42 Abu Dhabi.
-- Well versed in C programming & successfully completed fundamental C++ modules.
-- Have knowledge in back-end development, Nestjs, & TypeScript.
-- Have one year experience in software development working on solo and group projects. Programmed primarily in the C programming language and C++ programming language. 
-- Learned TypeScript as a language & the NestJS framework to join the back-end of a team in developing a web application for Abu Dhabi Education & Knowledge.
-- Designed, Developed & deployed API, also in the NestJS framework, to automate the daily sign-in on campus & submitted this project in a 42 hour Hackathon at 42 Abu Dhabi. Submission to this Hackathon has been requested to be implemented on campus for students daily sign-in.
-- Looking to gain more experience in a Continuous Integration & Continuous Deployment (CI/CD) Development Operations environment.
+
 
               
 
