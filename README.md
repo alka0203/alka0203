@@ -3,30 +3,20 @@
 ##  About Me:
 
 
-
-## :camera: Profile
-**[Top Languages]**<br/>![asanthos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
-<br/>**[Github Stats]**<br/>![alka0203's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
-<br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
-
 <details>
-<summary><b>🖥️ My Github Stats</b></summary>
+<summary><b>My Github Stats</b></summary>
 <br/>
 
 ## :camera: Profile
 **[Top Languages]**<br/>![asanthos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
 <br/>**[Github Stats]**<br/>![alka0203's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
 <br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
-
-<p align='center'>
-<a href="https://github.com/alka0203">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alka0203&show_icons=true&theme=dark&count_private=true" />
-</a>
-<a href="https://github.com/alka0203">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/alka0203" alt="Alka' github stats"/>
-</a>
-</p>
+  
 </details>
+
+<details>
+<summary><b>42 Stats</b></summary>
+<br/>
 
 
 | #----# | Project                                                      |            Language            |                            Score                             |
@@ -52,6 +42,9 @@
 |   20   | [**CPP05**] |                    C++                 | [![asanthos's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2926422)](https://github.com/JaeSeoKim/badge42)|
 |   21   | [**CPP06**] |                    C++                | [![asanthos's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2931805)](https://github.com/JaeSeoKim/badge42)
 |   22   | [**Netpractice**] |           Network/IP             | [![asanthos's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
+
+</details>
+
 
 All code is placed in a private repository for IP.
 
