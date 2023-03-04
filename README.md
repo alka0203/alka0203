@@ -4,14 +4,10 @@
 
 
 
-<br/>**[Cursus Stats]**<br/>[![asanthos's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
-              
-
 ## :camera: Profile
 **[Top Languages]**<br/>![Hussain's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
 <br/>**[Github Stats]**<br/>![Alka's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
 <br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
-<br/>**[Cursus Stats]**<br/>[![asanthos's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
 
 
 | #----# | Project                                                      |            Language            |                            Score                             |
