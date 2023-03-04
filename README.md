@@ -5,9 +5,22 @@
 
 
 ## :camera: Profile
-**[Top Languages]**<br/>![Hussain's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
+**[Top Languages]**<br/>![Alka's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
 <br/>**[Github Stats]**<br/>![Alka's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
 <br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
+
+<details>
+<summary><b>🖥️ My Github Stats</b></summary>
+<br/>
+<p align='center'>
+<a href="https://github.com/alka0203">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alka0203&show_icons=true&theme=dark&count_private=true" />
+</a>
+<a href="https://github.com/alka0203">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&layout=compact&show_icons=true&theme=dark&langs_count=10)](https://github.com/alka0203" alt="Alka' github stats"/>
+</a>
+</p>
+</details>
 
 
 | #----# | Project                                                      |            Language            |                            Score                             |
