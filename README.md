@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lde-alen&left_color=gray&right_color=red)
+
 ##  About Me:
 
 
