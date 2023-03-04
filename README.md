@@ -4,6 +4,7 @@
 
 
 
+<br/>**[Cursus Stats]**<br/>[![asanthos's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
               
 
 ## :camera: Profile
