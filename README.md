@@ -15,8 +15,8 @@
 
 ## :camera: Profile
 **[Top Languages]**<br/>![asanthos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
-<br/>**[Github Stats]**![alka0203's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
-**[Github Streak]**!<br/>[Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
+<br/>**[Github Stats]**<br/>![alka0203's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
+<br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
 
 <p align='center'>
 <a href="https://github.com/alka0203">
