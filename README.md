@@ -12,8 +12,6 @@
 <br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
 <br/>**[Cursus Stats]**<br/>[![asanthos's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
 
-<br/>**[Cursus Stats]**<br/>[![asanthos's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
-<br/>**[Piscine Stats]**<br/>[![asanthos's 42 stats](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/stats?cursusId=9&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
 
 | #----# | Project                                                      |            Language            |                            Score                             |
 | :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
