@@ -5,14 +5,17 @@
 
 Hello Stranger!
 
-I'm Alka Santhosh, a 21 year old aspiring developer, eager to learn and develop new skills over time with the number of projects that are displayed here.
+Just an eager software developer looking to integrate and learn new skillsets.
+
+Coming from a well built background in Accounting and Business, I'm aiming to combine this with the tech aspect for a bigger project up ahead.
 
 I started off with a background in Accounting and Business and switched over to programming to aid the satisfaction of my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
 
-#### I am a student at [42 Abu Dhabi](https://42abudhabi.ae/), a part-time accountant and a book lover!
-- Most of my projects are done in C.
-- I am commencing new projects in Java and SQL.
-- Over time I plan to learn more languages that may help me strive towards back-end/software development.
+#### Currently pursuing my studies at [42 Abu Dhabi](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
+<ul>
+  <li>Through extensive time spent on learning, refining and developing a deep understanding, most of the projects that have been focused on were based on C and C++</li>
+ 
+</ul>
 
 ### Language skills:
 <img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
