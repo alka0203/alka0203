@@ -13,9 +13,16 @@ I started off with a background in Accounting and Business and switched over to 
 
 #### Currently pursuing my studies at [42 Abu Dhabi](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
 <ul>
+  
   <li>Through extensive time spent on learning, refining and developing a deep understanding, most of the projects that have been focused on were based on C and C++</li>
+  <li>Currently learning machine learning and looking to pursue projects in the field</li>
+  <li>Working on web development projects on the wide</li>
  
 </ul>
+
+<br>
+
+Always open to start and contribute to new/or out-source projects!
 
 ### Language skills:
 <img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
