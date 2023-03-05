@@ -9,7 +9,7 @@ Just an eager software developer looking to integrate and learn new skillsets.
 
 Coming from a well built background in Accounting and Business, the switch to programming sprung through the aid to satisfy my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
 
-Aiming to combine both the entrepreneurial and tech aspect for a bigger project up ahead.
+I'm working on combining both the entrepreneurial and tech aspect for a bigger project up ahead.
 
 
 #### Currently pursuing my studies at [42 Abu Dhabi](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
