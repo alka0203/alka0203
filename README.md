@@ -24,7 +24,7 @@ I'm working on combining both the entrepreneurial and tech aspect for a bigger p
 
 <br>
 
-Always open to start and contribute to new/or out-source projects!
+Always open to collaborate and contribute to new/or out-source projects!
 
 ### Language skills:
 <img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
