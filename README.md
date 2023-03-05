@@ -13,7 +13,7 @@ Coming from a well built background in Accounting and Business, the switch to pr
 I'm working on combining both the entrepreneurial and tech aspect for a bigger project up ahead.
 
 
-#### Currently pursuing my studies at [42 Abu Dhabi](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
+#### Currently pursuing my studies at [<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" />](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
 <ul>
   
   <li>Through extensive time spent on learning, refining and developing a deep understanding, most of the projects have been focused on were based on C and C++</li>
