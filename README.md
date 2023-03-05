@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alka0203&left_color=gray&right_color=red)
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/004/525/039/small/binary-code-background-abstract-technology-digital-binary-data-and-secure-data-concept-free-photo.jpg" height=300 width=1000 alt="background">
+<img src="https://www.bgosoftware.com/blog/wp-content/uploads/2016/01/Featured_programming_books.jpg" height=300 width=1000 alt="background">
 
 ## Striving towards new beginnings 
 
