@@ -7,16 +7,17 @@ Hello Stranger!
 
 Just an eager software developer looking to integrate and learn new skillsets.
 
-Coming from a well built background in Accounting and Business, I'm aiming to combine this with the tech aspect for a bigger project up ahead.
+Coming from a well built background in Accounting and Business, the switch to programming sprung through the aid to satisfy my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
 
-I started off with a background in Accounting and Business and switched over to programming to aid the satisfaction of my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
+Aiming to combine both the entrepreneurial and tech aspect for a bigger project up ahead.
+
 
 #### Currently pursuing my studies at [42 Abu Dhabi](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
 <ul>
   
-  <li>Through extensive time spent on learning, refining and developing a deep understanding, most of the projects that have been focused on were based on C and C++</li>
+  <li>Through extensive time spent on learning, refining and developing a deep understanding, most of the projects have been focused on were based on C and C++</li>
   <li>Currently learning machine learning and looking to pursue projects in the field</li>
-  <li>Working on web development projects on the wide</li>
+  <li>Working on web development projects on the side</li>
  
 </ul>
 
