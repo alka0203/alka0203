@@ -37,7 +37,7 @@ I started off with a background in Accounting and Business and switched over to 
 
 [<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 
-
+<br>
 <details>
 <summary><b>My Github Stats</b></summary>
 <br/>
