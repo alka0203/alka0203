@@ -49,7 +49,7 @@ Always open to collaborate and contribute to new/or out-source projects!
 
 [<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
 
-<br>
+<br><br>
 <details>
 <summary><b>My Github Stats</b></summary>
 <br/>
