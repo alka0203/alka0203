@@ -2,7 +2,7 @@
 
 <!--<img src="https://www.bgosoftware.com/blog/wp-content/uploads/2016/01/Featured_programming_books.jpg" height=300 width=1000 alt="background">-->
 
-## Striving towards new beginnings 
+<center>## Striving towards new beginnings </center>
 
 Hello Stranger!
 
