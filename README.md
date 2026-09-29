@@ -1,101 +1,91 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alka0203&left_color=gray&right_color=red)
+<h1 align="center">Hi, I'm Alka 👋</h1>
+<h3 align="center">Software Engineer · iOS Developer · QA Specialist — building reliable apps and exploring applied AI</h3>
 
-<!--<img src="https://www.bgosoftware.com/blog/wp-content/uploads/2016/01/Featured_programming_books.jpg" height=300 width=1000 alt="background">-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/asanthos02"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alka.santhosh02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=alka0203&style=for-the-badge&color=1A2533&label=Profile+views" alt="Profile views"/>
+</p>
 
-## Striving towards new beginnings
+---
 
-Hello Stranger!
+### 🧭 About me
 
-Just an eager software developer looking to integrate and learn new skillsets.
+- 📍 Based in **Abu Dhabi, UAE**
+- 📱 **iOS Developer (Mobile & QA)** at the Department of Education and Knowledge (ADEK) — led the migration of the *Rayah* app from Flutter to native iOS
+- 🛠️ Freelance **Technical Consultant**, automating catalog layout generation with structured JSON data
+- 🎓 Studying at **42 Abu Dhabi** (RNCP 7, Master's level) after completing the Software Development diploma there
+- 🤖 Currently diving deep into **applied AI** — LLM apps, evals, agents and document intelligence
+- 💬 Ask me about Swift, CI/CD, testing strategy, or moving legacy apps to cleaner architectures
 
-Coming from a well built background in Accounting and Business, the switch to programming sprung through the aid to satisfy my inner rebellion to have the opportunity to strive, be innovative and push myself to wander and relent into a world suitable for a curious mind.
+---
 
-I'm working on combining both the entrepreneurial and tech aspect for a bigger project up ahead.
+### 🧰 Tech stack
 
+**Mobile**
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
 
-#### Currently pursuing my studies at [<img height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/42.svg" />](https://42abudhabi.ae/), while also being a part-time accountant and a books lover 😁
-<ul>
-  
-  <li>Through extensive time spent on learning, refining and developing a deep understanding, most of the projects have been focused on were based on C and C++</li>
-  <li>Currently learning machine learning and looking to pursue projects in the field</li>
-  <li>Working on web development projects on the side</li>
- 
-</ul>
+**Web & backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-<br>
+**AI, data & automation**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
-Always open to collaborate and contribute to new/or out-source projects!
+**DevOps & quality**
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XCTest-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
-### Language skills:
-<img align="left" alt="C" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+---
 
-<img align="left" alt="Java" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+### 🚀 Featured work
 
-<img align="left" alt="HTML" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+| Project | What it does | Stack |
+|---|---|---|
+| **Rayah — Native iOS migration** | Rebuilt a government education app from Flutter to native iOS, with automated testing in CI | Swift · XCTest · GitHub Actions |
+| **AI-Powered Student Insights** | Predictive models using behavioural data and sentiment analysis to flag at-risk students early | Python · ML · NLP |
+| **CARLA Lane Detection** | Real-time computer-vision lane detection in the CARLA driving simulator using neural edge segmentation | Python · OpenCV · Deep Learning |
+| **Aviation Document OCR** | Extracting structured data from aviation documents with OCR | Python · OCR |
+| **Automated Product Catalog** | JSON-driven layout generation for a 2026 HVAC product catalog | JSON · Automation |
 
-<img align="left" alt="JavaScript" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<!-- Tip: link each project name to its repo, e.g. [**CARLA Lane Detection**](https://github.com/alka0203/repo-name) -->
 
-<img align="left" alt="VS Code" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+---
 
-<img align="left" alt="Git" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+### 📊 GitHub stats
 
-<img align="left" alt="Unix" width="25px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alka0203&show_icons=true&hide_border=true&bg_color=1A2533&title_color=3498DB&icon_color=3498DB&text_color=E8E8E8" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&layout=compact&hide_border=true&bg_color=1A2533&title_color=3498DB&text_color=E8E8E8" alt="Top languages"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alka0203&hide_border=true&background=1A2533&ring=3498DB&fire=3498DB&currStreakLabel=3498DB&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=E8E8E8" alt="GitHub streak"/>
+</p>
 
-### Contact me:
-<img align="left" alt="Gmail" width="25px" img src="https://cdn2.downdetector.com/static/uploads/logo/image21.png">: alka.santhosh02@gmail.com
-<br/>
+---
 
-[<img align="left" alt="Linkedin" width="25px" img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/alka-santhosh-526a05220/)
+### 🌱 Currently
 
-<br><br>
-<details>
-<summary><b>My Github Stats</b></summary>
-<br/>
+- 🔭 Building portfolio projects in **LLM apps, RAG and agent evaluation**
+- 📚 Learning how to ship AI systems that hold up on messy, real-world data
+- 🤝 Open to **software engineering, mobile and applied-AI / forward-deployed roles**
 
-## :camera: Profile
-**[Top Languages]**<br/>![asanthos's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alka0203&theme=radical)
-<br/>**[Github Stats]**<br/>![alka0203's github stats](https://github-readme-stats.vercel.app/api?username=alka0203&theme=radical)
-<br/>**[Github Streak]**<br/>![Alka's github streak](https://github-readme-streak-stats.herokuapp.com/?user=alka0203&theme=radical)
-  
-</details>
-
-<details>
-<summary><b>42 Stats</b></summary>
-<br/>
-
-
-| #----# | Project                                                      |            Language            |                            Score                             |
-| :----: | :----------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-|   01   | [**Libft**](https://github.com/asanthos/asanthos/edit/42-Cursus-Projects/libft)     |               C                |  [![asanthos's 42 Libft Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2354792)](https://github.com/JaeSeoKim/badge42)|
-|   02   | [**get_next_line**](https://github.com/asanthos/asanthos/edit/42-Cursus-Projects/get_next_line) |               C                | [![asanthos's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2387513)](https://github.com/JaeSeoKim/badge42)|
-|   03   | [**ft_printf**](https://github.com/asanthos/asanthos/edit/42-Cursus-Projects/ft_printf) |               C                | [![asanthos's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2394315)](https://github.com/JaeSeoKim/badge42)|
-|   05   | [**Born2beroot**] |       System Administration     | [![asanthos's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2381156)](https://github.com/JaeSeoKim/badge42)|
-|   06   | [**Exam Rank 02**] |               C                | [![asanthos's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2402157)](https://github.com/JaeSeoKim/badge42)|
-|   07   | [**Minitalk**](https://github.com/asanthos/asanthos/edit/42-Cursus-Projects/minitalk)|               C                | [![asanthos's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2402159)](https://github.com/JaeSeoKim/badge42)|
-|   08   | [**FdF**](https://github.com/asanthos/asanthos/edit/42-Cursus-Projects/fdf) |               C                | [![asanthos's 42 FdF Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2410623)](https://github.com/JaeSeoKim/badge42)|
-|   09   | [**push_swap**](https://github.com/asanthos/asanthos/edit/42-Cursus-Projects/push_swap) |               C                 | [![asanthos's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2448275)](https://github.com/JaeSeoKim/badge42)|
-|   10   | [**Philosophers**](https://github.com/asanthos/asanthos/tree/42-Cursus-Projects/42Cursus/philo) |            C                  | [![hawadh's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2512814)](https://github.com/JaeSeoKim/badge42)|
-|   11   | [**Exam Rank 03**] |               C                  | [![asanthos's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2512807)](https://github.com/JaeSeoKim/badge42)|
-|   12   | [**Minishell**](https://github.com/asanthos/asanthos/tree/Origin/Master/42Cursus/minishell)|               C                  | [![asanthos's 42 minishell Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2517995)](https://github.com/JaeSeoKim/badge42)|
-|   13   | [**Exam Rank 04**] |             C                   | [![asanthos's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2641462)](https://github.com/JaeSeoKim/badge42)
-|   14   | [**cub3d**]  |                   C                   | [![asanthos's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2641460)](https://github.com/JaeSeoKim/badge42)|
-|   15   | [**CPP00**] |                    C++                 | [![asanthos's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2701677)](https://github.com/JaeSeoKim/badge42)|
-|   16   | [**CPP01**] |                    C++                 | [![asanthos's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2919750)](https://github.com/JaeSeoKim/badge42)|
-|   17   | [**CPP02**] |                    C++                 | [![asanthos's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2920507)](https://github.com/JaeSeoKim/badge42)|
-|   18   | [**CPP03**] |                    C++                 | [![asanthos's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924269)](https://github.com/JaeSeoKim/badge42)|
-|   19   | [**CPP04**] |                    C++                 | [![asanthos's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2924638)](https://github.com/JaeSeoKim/badge42)
-|   20   | [**CPP05**] |                    C++                 | [![asanthos's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2926422)](https://github.com/JaeSeoKim/badge42)|
-|   21   | [**CPP06**] |                    C++                | [![asanthos's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2931805)](https://github.com/JaeSeoKim/badge42)
-|   22   | [**Netpractice**] |           Network/IP             | [![asanthos's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl297sxa0003009l54y0v4dij/project/2706008)](https://github.com/JaeSeoKim/badge42)|
-
-</details>
-
-
-All code is placed in a private repository for IP.
-
-![snake git](https://github.com/alka0203/alka0203/blob/output/github-contribution-grid-snake.svg)
-<!--
-**alka0203/alka0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out!</i></p>
