@@ -13,7 +13,7 @@
 
 - 📍 Based in **Abu Dhabi, UAE**
 - 🤖 **Applied AI Engineer & FDE** — I build LLM apps, RAG pipelines, agents and evals, and deploy them close to the people who use them
-- 📱 Engineering background at the Department of Education and Knowledge (ADEK), where I led the migration of the *Rayah* app from Flutter to native iOS
+- 📱 Software Engineering background - full-stack, deployment
 - 🛠️ Freelance **Technical Consultant**, automating catalog layout generation with structured JSON data
 - 🎓 Studying at **42 Abu Dhabi** (RNCP 7, Master's level) after completing the Software Development diploma there
 - 💬 Ask me about LLM evals, document intelligence, CI/CD, or taking a prototype to production
